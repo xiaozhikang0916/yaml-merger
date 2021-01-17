@@ -1,0 +1,4 @@
+foo: old
+bar: old
+fail: do not change
+no_override: do not change
